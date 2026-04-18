@@ -65,4 +65,4 @@ Les mots de passe ne sont jamais stockés en clair dans les bases de données (e
 
 ## Auteur
 
-Sokhna Oumou Diouf - L2 Informatique, Sorbonne Université
+Sokhna Oumou Diouf
